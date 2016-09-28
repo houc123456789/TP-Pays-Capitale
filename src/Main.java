@@ -25,7 +25,7 @@ public class Main {
 		/*System.out.println(P1.toString());
 		System.out.println(P2.toString());
 		*/
-		
+		// jer suis un boss
 		
 	}
 	
@@ -43,6 +43,7 @@ public class Main {
 		}
 		
 		return i;
+// jer suis un boss
 	}
 
 }
