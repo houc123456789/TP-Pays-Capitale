@@ -20,7 +20,7 @@ public class Main {
 			
 		}while(choix != 0);
 		
-		
+		// je ne sais pas
 		System.out.println(P.toString());
 		/*System.out.println(P1.toString());
 		System.out.println(P2.toString());
