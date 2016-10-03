@@ -3,6 +3,7 @@ public class Ville {
 	private String nom;
 	private int nbHabitants;
 	private float superficie;
+	private int git;
 	
 	
 	public Ville(String unNom,int leNbHab,float sficie){
@@ -29,7 +30,9 @@ public class Ville {
 		this.superficie = superficie;
 	}
 	
-	
+	public String getGit() {
+		return git;
+	}
 	
 	
 	
